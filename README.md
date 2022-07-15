@@ -4,9 +4,10 @@ It is flutter application created using firebase for authentication. Using this 
 
 You can download application by downloading "base.apk"
 
-#Screenshots
-
-<img src="./assets/images/Screenshot_2022-07-15-12-00-12-512_com.example.flutter_application_2.jpg" width=150 height=300>
-<img src="./assets/images/Screenshot_2022-07-15-12-00-32-270_com.example.flutter_application_2.jpg" width=150 height=300>
-<img src="./assets/images/Screenshot_2022-07-15-12-00-52-070_com.example.flutter_application_2.jpg" width=150 height=300>
-<img src="./assets/images/Screenshot_2022-07-15-12-01-09-601_com.example.flutter_application_2.jpg" width=150 height=300>
+# Screenshots
+<p align="center">
+  <img src="./assets/images/Screenshot_2022-07-15-12-00-12-512_com.example.flutter_application_2.jpg" width=150 height=300>
+  <img src="./assets/images/Screenshot_2022-07-15-12-00-32-270_com.example.flutter_application_2.jpg" width=150 height=300>
+  <img src="./assets/images/Screenshot_2022-07-15-12-00-52-070_com.example.flutter_application_2.jpg" width=150 height=300>
+  <img src="./assets/images/Screenshot_2022-07-15-12-01-09-601_com.example.flutter_application_2.jpg" width=150 height=300>
+</p>
