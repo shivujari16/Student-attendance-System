@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216068668125",
+    "project_id": "student-att-fc445",
+    "storage_bucket": "student-att-fc445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216068668125:android:f6e83391049c37d0c1b934",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216068668125-au9bgg7ct8gd5r26d3hdnbbnteueg5qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZEMOAETsr9bZAdx-w3OgV4gacehtdVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216068668125-au9bgg7ct8gd5r26d3hdnbbnteueg5qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
